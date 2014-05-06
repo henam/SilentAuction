@@ -11,7 +11,7 @@
 #!/usr/bin/env python
 
 #initialisation
-highest_bid = 0
+highest_bid = 0.00
 bid_number = 0
 names = []
 bids = []
